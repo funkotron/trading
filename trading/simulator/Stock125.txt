@@ -1,0 +1,125 @@
+AAPL	Apple Computer, Inc.
+ADBE	Adobe Systems Incorporated
+ADCT	ADC Telecommunications, Inc.
+ADLAC	Adelphia Communications Corporation
+ADPT	Adaptec, Inc.
+ALTR	Altera Corporation
+AMAT	Applied Materials, Inc.
+AMCC	Applied Micro Circuits Corporation
+AMGN	Amgen Inc.
+AMZN	Amazon.com, Inc.
+APCC	American Power Conversion Corporation
+APOL	Apollo Group, Inc.
+ATHM	At Home Corporation
+ATML	Atmel Corporation
+BBBY	Bed Bath & Beyond Inc.
+BGEN	Biogen, Inc.
+BMCS	BMC Software, Inc.
+BMET	Biomet, Inc.
+BVSN	BroadVision, Inc.
+CEFT	Concord EFS, Inc.
+CHIR	Chiron Corporation
+CIEN	CIENA Corporation
+CMCSK	Comcast Corporation
+CMGI	CMGI, Inc.
+CMVT	Comverse Technology, Inc.
+CNET	CNET Networks, Inc.
+CNXT	Conexant Systems, Inc.
+COMS	3Com Corporation
+COST	Costco Wholesale Corporation
+CPWR	Compuware Corporation
+CSCO	Cisco Systems, Inc.
+CTAS	Cintas Corporation
+CTXS	Citrix Systems, Inc.
+DELL	Dell Computer Corporation
+DISH	EchoStar Communications Corporation
+DLTR	Dollar Tree Stores, Inc.
+EBAY	eBay Inc.
+ERICY	LM Ericsson Telephone Company
+ERTS	Electronic Arts Inc.
+FISV	Fiserv, Inc.
+GBLX	Global Crossing Ltd
+GENZ	Genzyme General
+GMST	Gemstar International Group, Limited
+IMNX	Immunex Corporation
+INTC	Intel Corporation
+INTU	Intuit Inc.
+ITWO	i2 Technologies, Inc.
+JDSU	JDS Uniphase Corporation
+KLAC	KLA-Tencor Corporation
+LCOS	Lycos, Inc.
+LGTO	Legato Systems, Inc.
+LLTC	Linear Technology Corporation
+LVLT	Level 3 Communications, Inc.
+MCHP	Microchip Technology Incorporated
+MCLD	McLeodUSA Incorporated
+MEDI	MedImmune, Inc.
+MFNX	Metromedia Fiber Network, Inc.
+MLHR	Herman Miller, Inc.
+MOLX	Molex Incorporated
+MSFT	Microsoft Corporation
+MXIM	Maxim Integrated Products, Inc.
+NETA	Network Associates, Inc.
+NOVL	Novell, Inc.
+NSOL	Network Solutions, Inc.
+NTAP	Network Appliance, Inc.
+NTLI	NTL Incorporated
+NWAC	Northwest Airlines Corporation
+NXLK	NEXTLINK Communications, Inc.
+NXTL	Nextel Communications, Inc.
+ORCL	Oracle Corporation
+PAYX	Paychex, Inc.
+PCAR	PACCAR Inc
+PHSY	PacifiCare Health Systems, Inc.
+PMCS	PMC - Sierra, Inc.
+PMTC	Parametric Technology Corporation
+PSFT	PeopleSoft, Inc.
+QCOM	QUALCOMM Incorporated
+QLGC	QLogic Corporation
+QTRN	Quintiles Transnational Corp.
+RFMD	RF Micro Devices, Inc.
+RNWK	RealNetworks, Inc.
+SANM	Sanmina Corporation
+SBUX	Starbucks Corporation
+SDLI	SDL, Inc.
+SEBL	Siebel Systems, Inc.
+SIAL	Sigma-Aldrich Corporation
+SNPS	Synopsys, Inc.
+SPLS	Staples, Inc.
+SPOT	PanAmSat Corporation
+SSCC	Smurfit-Stone Container Corporation
+SUNW	Sun Microsystems, Inc.
+TLAB	Tellabs, Inc.
+USAI	USA Networks, Inc.
+VISX	VISX, Incorporated
+VRTS	VERITAS Software Corporation
+VSTR	VoiceStream Wireless Corporation
+VTSS	Vitesse Semiconductor Corporation
+WCOM	MCI WORLDCOM, Inc.
+XLNX	Xilinx, Inc.
+YHOO	Yahoo! Inc.
+ONCP	141 CAPITAL
+OTROQ 	ONTARIO	
+FLWS 	FLOWERS.COM	
+ATTY 	1-800-ATTORNEY	
+FISB 	1ST CAPITAL BANK 
+FCEN	1ST CENTENNIAL BANCORP	
+FCTY 	1ST CENTURY BANCSHRS
+FCOB 	1ST COLONIAL BANCORP
+FCCY 	1ST CONSTITUTION	
+FENB 	1ST ENTERPRISE BANK	
+FFIS 	1ST FINANCIAL SERVICES	
+FGBF 	1ST GLOBAL FINANCIAL	
+FNRC 	1ST NRG CORP	
+FPBN 	1ST PACIFIC BANCORP 
+FRCCO 	1ST REP. PREF. CAP CORP	
+SRCE 	1ST SOURCE	NASDAQ NM	
+FSMK 	1ST SUMMIT BANCRP PA	
+FUBC 	1ST UNITED BANCORP
+JKXOF 	J K X OIL & GAS PLC	
+JSAIY 	J SAINSBURY	
+JSNSF 	J SAINSBURY PLC 
+JJSF 	J&J SNACK FOODS	
+JAX 	J. ALEXANDER'S	
+RISH 	J. RISH GROUP	
+JCP 	J.C. PENNEY	
